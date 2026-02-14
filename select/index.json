@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "さよなら、素晴らしき世界よ",
+  "base_artist": "前島麻由",
+  "createdAt": "2026-02-14T16:59:48.203319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよなら、素晴らしき世界よ",
+      "artist": "前島麻由",
+      "has_synced": true,
+      "path": "select/01_さよなら、素晴らしき世界よ_前島麻由.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよなら、素晴らしき世界よ",
+      "artist": "Mayu Maeshima",
+      "has_synced": true,
+      "path": "select/02_さよなら、素晴らしき世界よ_Mayu_Maeshima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら、素晴らしき世界よ",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら、素晴らしき世界よ_前島麻由.txt"
+    }
+  ]
+}
